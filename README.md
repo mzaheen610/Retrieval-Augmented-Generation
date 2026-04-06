@@ -8,3 +8,5 @@ Ollama: For pulling the large language models
 LLM:  llama3.2:3b
 Embedding Model: Nomic Embed
 Vector Database: ChromaDB
+
+![alt text](image.png)
